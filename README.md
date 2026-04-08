@@ -1,18 +1,19 @@
-# 🛡️ Cyber-Learning-Journey
-Welcome to my cybersecurity portfolio! This repository documents my professional growth, technical labs, and scripts developed during my studies at the **College of External Studies**.
+# 🛡️ Cyber Security Learning Journey
+Welcome to my professional portfolio! I am a **Cybersecurity student**, currently documenting my technical projects, Python scripts, and networking labs.
 
-## 🚀 Technical Skills & Progress
- **Networking:** Understanding OSI layers, TCP/IP, and network protocols.
- **Operating Systems:** Managing Windows and Linux (Kali) environments.
- **Scripting:** Developing security tools using **Python**.
- **Hands-on Labs:** Practicing penetration testing in VirtualBox and ELTA simulations.
+## 🚀 Featured Projects
+### 🐍 Python Tools
+* **[Salary Tracker](./salary_tracker.py)**: A script that manages work hours, calculates monthly pay, and generates a `.txt` report.
+* **[Voting System](./voting_system.py)**: A logic-based program for managing votes with input validation.
 
-## 📂 Featured Projects
+### 💻 Infrastructure & Cyber
+* **Virtualization:** Building lab environments using **VirtualBox**.
+* **Networking:** Studying OSI layers and TCP/IP protocols.
+* **Linux:** Hands-on experience with **Kali Linux** and terminal commands.
 
-
-## 🎓 Certifications & Goals
-**Current:** Preparing for the **MIT+edX** Python Certification.
-**Next Steps:** Aiming for international cybersecurity certifications.
+## 📚 Education & Goals
+* **Current:** Information Security Course (College of External Studies).
+* **Target:** Preparing for the **MIT+edX** Python Certification.
 
 ---
-Feel free to explore my code and reach out!
+*“Securing the future, one script at a time.”*
