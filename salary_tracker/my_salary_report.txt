@@ -1,0 +1,14 @@
+--- WORK REPORT ---
+
+Date: 01/03 | Hours: 8.5 | Pay: 476.0
+Date: 02/03 | Hours: 7.0 | Pay: 392.0
+Date: 03/03 | Hours: 9.0 | Pay: 504.0
+Date: 04/03 | Hours: 8.5 | Pay: 476.0
+Date: 05/03 | Hours: 9.0 | Pay: 504.0
+Date: 06/03 | Hours: 5.0 | Pay: 280.0
+
+====================
+Total Days: 6
+Total Hours: 47.0
+Total Salary: 2632.0
+====================
