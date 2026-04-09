@@ -14,7 +14,7 @@ Welcome to my portfolio. I am a Cyber Security & Information Security Student, c
 
 ### 🐍 [Python Automation Lab](./Python-Projects/)
 **Focus:** Logic-based Scripting & Tool Development.
-* **[Salary Tracker](./Python-Projects/salary_tracker/):** Automated earnings calculator for dynamic work environments.
+* **Salary Tracker:** Automated earnings calculator for dynamic work environments.
 * **Voting System:** Secure logic-driven script for polling and data integrity.
 
 ---
