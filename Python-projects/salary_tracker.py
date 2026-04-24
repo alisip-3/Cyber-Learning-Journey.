@@ -3,8 +3,10 @@
 # It records daily work hours and saves the summary into a text file.
 #
 # 📊 Execution Screenshot: 
-https://github.com/alisip-3/Cyber-Learning-Journey./blob/main/Python-projects/SCREENSHOT%202026-04-08%20081619.png#
+# https://github.com/alisip-3/Cyber-Learning-Journey./blob/main/Python-projects/SCREENSHOT%202026-04-08%20081619.png
+#
 # It records daily work hours and saves the summary into a text file.
+#
 def calculate_salary(hourly_rate):
     # Initialize totals
     total_days = 0
