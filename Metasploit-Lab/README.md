@@ -3,27 +3,27 @@
 ## 🚀 Step-by-Step Execution
 
 ### 1. Payload Generation & Delivery Setup
-![Step 1](screenshot/01-payload-gen-and-server.jpg.png)
+![Step 1](screenshots/01-payload-gen-and-server.jpg.png)
 
 ---
 
 ### 2. File Delivery to Target
-![Step 2](screenshot/02-target-download-success.jpg.png)
+![Step 2](screenshots/02-target-download-success.jpg.png)
 
 ---
 
 ### 3. Establishing the Initial Shell
-![Step 3](screenshot/03-handler-initial-shell.jpg.png)
+![Step 3](screenshots/03-handler-initial-shell.jpg.png)
 
 ---
 
 ### 4. Upgrading to Meterpreter
-![Step 4](screenshot/04-shell-to-meterpreter-upgrade.jpg.png)
+![Step 4](screenshots/04-shell-to-meterpreter-upgrade.jpg.png)
 
 ---
 
 ### 5. Post-Exploitation: Visual Evidence
-![Step 5](screenshot/05-post-exploitation-evidence.jpg.png)
+![Step 5](screenshots/05-post-exploitation-evidence.jpg.png)
 
 ---
 
